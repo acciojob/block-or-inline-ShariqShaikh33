@@ -1,2 +1,148 @@
-
 /* Your CSS Code here. */
+.button{
+	width: 200px;
+	height: 100px;
+	border: 1px solid black;
+	background-color: violet;
+	margin: 5px;
+}
+button{
+	width:10em;
+	background-color: black;
+	color: white;
+	border: 1px solid white;
+	margin-top: 1.5em;
+	margin-left: 2.5em;
+	
+}
+.div{
+	width: 200px;
+	height: 100px;
+	border: 1px solid black;
+	background-color: brown;
+	margin: 5px;
+}
+
+.subdiv{
+	width: 100px;
+	height: 30px;
+	border: 1px solid black;
+	background-color: white;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.span{
+	width: 200px;
+	height: 100px;
+	border: 1px solid black;
+	background-color: indigo;
+	margin: 5px;
+}
+span{
+	background-color: white;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.p{
+	width: 200px;
+	height: 100px;
+	border: 1px solid black;
+	background-color: blue;
+	margin: 5px;
+}
+p{
+	background-color: white;
+	margin-top: 10px;
+	
+	text-align: center;
+}
+.input{
+	width: 200px;
+	height: 100px;
+	border: 1px solid black;
+	background-color: green;
+	margin: 5px;
+}
+input{
+	background-color: white;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.cite{
+	width: 200px;
+	height: 100px;
+	border: 1px solid black;
+	background-color: yellow;
+	margin: 5px;
+}
+cite{
+	background-color: white;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.code{
+	width: 200px;
+	height: 100px;
+	border: 1px solid black;
+	background-color: orange;
+	margin: 5px;
+}
+code{
+	background-color: white;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.h1{
+	width: 200px;
+	height: 100px;
+	border: 1px solid black;
+	background-color: red;
+	margin: 5px;
+}
+h1{
+	background-color: white;
+	font-size: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.sup{
+	width: 200px;
+	height: 100px;
+	border: 1px solid black;
+	background-color: skyblue;
+	margin: 5px;
+}
+sup{
+	background-color: white;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.sub{
+	width: 200px;
+	height: 100px;
+	border: 1px solid black;
+	background-color: coral;
+	margin: 5px;
+}
+sub{
+	background-color: white;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
